@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="amr" language="en" table="x_192889_amr_amr">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>amr</label>
+            <language>en</language>
+            <name>x_192889_amr_amr</name>
+            <plural>amrs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-20 10:30:58</sys_created_on>
+            <sys_id>70293787db9013009527f7fdbf96193d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>amr</sys_name>
+            <sys_package display_value="amr" source="x_192889_amr">3ef7fbc3db9013009527f7fdbf9619c9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="amr">3ef7fbc3db9013009527f7fdbf9619c9</sys_scope>
+            <sys_update_name>sys_documentation_x_192889_amr_amr__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-20 10:30:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
